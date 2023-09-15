@@ -1,0 +1,52 @@
+[
+	{
+		"pk": "3045789749526509313",
+		"id": "3045789749526509313_6161345448",
+		"code": "CpE0aPRDbcB",
+		"taken_at": "2023-02-25T06:27:42+00:00",
+		"media_type": 2,
+		"image_versions2": {},
+		"product_type": "clips",
+		"thumbnail_url": "https://instagram.fixc9-1.fna.fbcdn.net/v/t51.2885-15/332547171_141781552111634_7516025785915043779_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fixc9-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=DNADNCt7At0AX_Ym8Ai&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AfBNlldtjDnZwn08aBa-EgXfXaPsR5wUbOo1-pyl8SwuwA&oe=64A6CB9D&_nc_sid=2999b8",
+		"location": {
+			"pk": 499297424,
+			"name": "Maasai Mara",
+			"phone": "",
+			"website": "",
+			"category": "",
+			"hours": {},
+			"address": "",
+			"city": "Nairobi, Kenya",
+			"zip": "",
+			"lng": null,
+			"lat": null,
+			"external_id": null,
+			"external_id_source": null
+		},
+		"user": {
+			"pk": "6161345448",
+			"username": "afrobeatswithkamau",
+			"full_name": "Kamau 🇨🇴🇰🇪",
+			"profile_pic_url": "https://instagram.fixc9-1.fna.fbcdn.net/v/t51.2885-19/70182022_1080620192143832_2166058084475076608_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fixc9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=h_RNCrNmLnEAX-zO1Pz&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AfCRa2GHzjFmnApV9OuXfBNjAUJEUyVrhBD9vX-9Tj0DOw&oe=64AAB00E&_nc_sid=2999b8",
+			"profile_pic_url_hd": null,
+			"is_private": false,
+			"stories": []
+		},
+		"comment_count": 10,
+		"comments_disabled": false,
+		"commenting_disabled_for_viewer": false,
+		"like_count": 1092,
+		"play_count": null,
+		"has_liked": null,
+		"caption_text": "Have you been to #maasaimara in #kenya? This is your sign ✨✨ #kenyasafari #safaripark #africasafari #teambeakenya",
+		"accessibility_caption": null,
+		"usertags": [],
+		"sponsor_tags": [],
+		"video_url": "https://instagram.fixc9-1.fna.fbcdn.net/o1/v/t16/f1/m82/5B445DF7D2BBC898C85C3ABE0A029AB8_video_dashinit.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uNTc2LmNsaXBzLmJhc2VsaW5lIn0&_nc_ht=instagram.fixc9-1.fna.fbcdn.net&_nc_cat=110&vs=573125764910496_605836777&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC81QjQ0NURGN0QyQkJDODk4Qzg1QzNBQkUwQTAyOUFCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVABgkR0xqajBoUHF4QndVUzN3Q0FFSV84enkwa2x0V2JxX0VBQUFGFQICyAEAKAAYABsAFQAAJsb50%2FSxqr0%2FFQIoAkMzLBdAHmZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2FgcA&ccb=9-4&oh=00_AfAWXtK1yzm2aF89SBpVU_lUU7PYTJngjUP5sg5ohXmbrg&oe=64A71571&_nc_sid=2999b8",
+		"view_count": 12772,
+		"video_duration": 7.6,
+		"title": "",
+		"resources": [],
+		"clips_metadata": {}
+	}
+]

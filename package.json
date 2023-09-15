@@ -1,0 +1,45 @@
+{
+	"name": "sociolytic",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@emotion/react": "^11.11.1",
+		"@emotion/styled": "^11.11.0",
+		"@mui/material": "^5.14.8",
+		"autoprefixer": "10.4.14",
+		"axios": "^1.4.0",
+		"classnames": "^2.3.2",
+		"cx": "^23.5.2",
+		"eslint": "8.43.0",
+		"eslint-config-next": "13.4.7",
+		"next": "13.4.7",
+		"postcss": "8.4.24",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"react-icons": "^4.10.1",
+		"tailwindcss": "3.3.2"
+	},
+	"devDependencies": {
+		"@babel/eslint-parser": "^7.22.5",
+		"@next/eslint-plugin-next": "^13.4.4",
+		"@tailwindcss/forms": "^0.5.3",
+		"autoprefixer": "^10.4.14",
+		"babel-eslint": "^10.1.0",
+		"eslint": "8.42.0",
+		"eslint-config-next": "13.4.4",
+		"eslint-config-prettier": "^8.8.0",
+		"eslint-plugin-next": "^0.0.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"eslint-plugin-react": "^7.32.2",
+		"postcss": "^8.4.24",
+		"prettier": "^2.8.8",
+		"prettier-plugin-tailwindcss": "^0.3.0",
+		"tailwindcss": "^3.3.2"
+	}
+}
